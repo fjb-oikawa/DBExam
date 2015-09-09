@@ -1,9 +1,11 @@
-package jp.ac.chibafjb.db;
+package jp.ac.chibafjb.exam01;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+
+import jp.ac.chibafjb.db.OracleDB;
 
 public class ExamDB01 extends OracleDB
 {
